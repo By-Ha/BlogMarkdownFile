@@ -1,0 +1,12 @@
+title: OI 易错 备忘录
+categories: 编程
+tags: [编程]
+date: 2019-08-12 15:49:00
+---
+# cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio cstdio 
+# 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 两种二分区别 
+# 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 调试记得删 
+# 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 判断边界注意放的位置 
+# RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 RE:不要log(0),N/0 !!!!!!!!!!!!!!!!!!
+# 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 记得无解 
+# 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 开long long 
